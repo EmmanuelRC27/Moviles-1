@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactManagerEmma</string>
+    <string name="AddContact">Add Contacts</string>
+    <string name="ViewContactList">View the Contact List</string>
+    <string name="Save">Save</string>
+    <string name="Remove">Remove</string>
+    <string name="Cancel">Cancel</string>
+
+</resources>

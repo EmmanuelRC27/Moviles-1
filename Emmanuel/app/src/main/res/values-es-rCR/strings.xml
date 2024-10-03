@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactManagerEmma</string>
+    <string name="AddContact">Agregar Contacto</string>
+    <string name="ViewContactList">Mostrar Lista Contactos</string>
+    <string name="Save">Guardar</string>
+    <string name="Remove">Eliminar</string>
+    <string name="Cancel">Cancelar</string>
+</resources>
